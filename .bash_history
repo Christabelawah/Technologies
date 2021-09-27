@@ -622,3 +622,11 @@ su- landmarkuser
 su- landmark user
 su- landmarkuser
 exit
+ls
+ls -a
+git status
+git add .
+git rm --cached demo2
+-f
+git rm --cached -f demo2
+ls -a
