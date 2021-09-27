@@ -630,3 +630,153 @@ git rm --cached demo2
 -f
 git rm --cached -f demo2
 ls -a
+git init
+ls -a
+ls
+git status
+vi code.jave
+sh code.jave
+git status
+git add code.jave
+git status
+sh code.jave > test.java
+ls
+git status
+cat code.jave
+rm test.java
+ls
+git status
+ls
+git log
+git commit -m
+git commit -m "my second commit"
+git log
+git remote add am master https://github.com/Christabelawah/demo3.git
+git remote -v
+git show
+git log
+git show 1a9e98e670e998
+git push am master
+git remote add am master https://github.com/Christabelawah/demo3.git
+git remote -v
+git remote add am master https://github.com/Christabelawah/amazon.git
+git remote add am  https://github.com/Christabelawah/amazon.git
+git remote -v
+git push am master
+vi code.jave
+sh code.jave
+vi code.jave
+sh code.jave
+git status
+#git commit -m "modified Java"
+git add .
+git rm --cached demo2
+ls
+cd paypal
+ls
+cd ..
+mv code.jave paypal
+cd paypal
+ls
+mv code.jave code java
+mv code.jave code.java
+ls
+git status
+git add .
+git add code.java
+git status
+git commit -m "my third commit"
+git remote -v
+git remote add cj https://github.com/Christabelawah/amazon.git
+git status
+git push cj master
+git status
+git restore ebay2
+git status
+git add . 
+git status
+git commit -a ebay2
+git reset ebay2
+git status
+ls
+cd ebay2
+ls
+cd ..
+su -  ec2-user
+sudo su -
+git init
+git status
+git add .
+git status
+git restore ebay2
+git status
+gitcommit -a ebay2
+git commit -a ebay2
+man git
+git status
+git restore ebay2
+git status
+git discard enay2
+git discard ebay2
+git reset ebay2
+git discard ebay2
+git status
+git add .
+git status
+cd ebay2
+ls
+cd ..
+mv app.java paypal
+cd ebay2
+mv app.java paypal
+mv test.java paypal
+cd ..
+rm -rf ebay2
+ls
+cd paypal
+ls
+cd
+ls
+cd demo2
+ls
+cd ..
+cd paypal
+ls
+ls -a
+ls -l
+git status
+git commit -a "my third commit"
+git commit -m "my third commit"
+
+git status
+git commit -m "my third commit"
+git push cj master
+git pull cj master
+git merge cj master
+git push origin --all
+git push cj --all
+git pull cd master
+git config cj master
+git config --global
+git fetch https://github.com/Christabelawah/amazon.git
+git push cj master
+git push cj main
+git push cj 
+git init
+git status
+git add .
+git status
+git add code.java
+git status
+git commit -m "my first commit"
+ls
+vi code.java
+sh code.java
+git status
+git add .
+git status
+git commit -m "my first commit"
+git remote add cjj https://github.com/Christabelawah/test-amazon.git
+git push cjj master
+shutdown
+sudo shutdown

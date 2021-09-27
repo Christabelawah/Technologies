@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "enter the filename"
+read filename
+echo welcome $filename
+echo welcome to paypal $filename
+echo goodbye $filename
