@@ -622,6 +622,7 @@ su- landmarkuser
 su- landmark user
 su- landmarkuser
 exit
+<<<<<<< HEAD
 ls
 ls -a
 git status
@@ -780,3 +781,5 @@ git remote add cjj https://github.com/Christabelawah/test-amazon.git
 git push cjj master
 shutdown
 sudo shutdown
+=======
+>>>>>>> parent of 8b2f6de... ebay added

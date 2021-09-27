@@ -1,0 +1,5 @@
+echo "enter the filename"
+read filename
+echo welcome $filename
+welcome to ebay $filename
+
