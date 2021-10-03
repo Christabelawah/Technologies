@@ -15,19 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-<<<<<<< HEAD
-|2,0,1632701444,,"wq"
-=======
-|2,0,1632193963,,"wq"
->>>>>>> parent of 8b2f6de... ebay added
+|2,0,1633230232,,"wq"
 :q!
-|2,0,1632100733,,"q!"
-::wq
-|2,0,1630464851,,":wq"
+|2,0,1633225460,,"q!"
 
 # Search String History (newest to oldest):
-? @$
-|2,1,1630558740,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -36,702 +28,263 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	
-|3,0,1,1,1,0,1630558740,""
 
 # File marks:
-<<<<<<< HEAD
-'0  5  21  ~/code
-|4,48,5,21,1632701444,"~/code"
-'1  5  21  ~/paypal/code.java
-|4,49,5,21,1632582037,"~/paypal/code.java"
-'2  3  13  ~/code.jave
-|4,50,3,13,1632578573,"~/code.jave"
-'3  3  12  ~/code.jave
-|4,51,3,12,1632578475,"~/code.jave"
-'4  4  0  ~/code.jave
-|4,52,4,0,1632568476,"~/code.jave"
-'5  4  0  ~/code.jave
-|4,53,4,0,1632568476,"~/code.jave"
-'6  4  0  ~/code.jave
-|4,54,4,0,1632568476,"~/code.jave"
-'7  4  0  ~/code.jave
-|4,55,4,0,1632568476,"~/code.jave"
-'8  3  18  ~/demo3/test3.sh
-|4,56,3,18,1632193963,"~/demo3/test3.sh"
-'9  3  14  ~/fff.sh
-|4,57,3,14,1632192518,"~/fff.sh"
+'0  3  6  ~/test.java
+|4,48,3,6,1633230232,"~/test.java"
+'1  3  8  ~/test.java
+|4,49,3,8,1633230184,"~/test.java"
+'2  3  7  ~/test.java
+|4,50,3,7,1633230138,"~/test.java"
+'3  3  7  ~/test.java
+|4,51,3,7,1633230138,"~/test.java"
+'4  4  0  ~/test.java
+|4,52,4,0,1633230086,"~/test.java"
+'5  4  0  ~/test.java
+|4,53,4,0,1633230086,"~/test.java"
+'6  4  0  ~/test.java
+|4,54,4,0,1633230086,"~/test.java"
+'7  4  0  ~/test.java
+|4,55,4,0,1633230086,"~/test.java"
+'8  4  0  ~/test.java
+|4,56,4,0,1633230086,"~/test.java"
+'9  4  0  ~/test.java
+|4,57,4,0,1633230086,"~/test.java"
 
 # Jumplist (newest first):
--'  5  21  ~/code
-|4,39,5,21,1632701444,"~/code"
--'  1  0  ~/code
-|4,39,1,0,1632700839,"~/code"
--'  5  21  ~/paypal/code.java
-|4,39,5,21,1632582037,"~/paypal/code.java"
--'  5  21  ~/paypal/code.java
-|4,39,5,21,1632582037,"~/paypal/code.java"
--'  1  0  ~/paypal/code.java
-|4,39,1,0,1632581992,"~/paypal/code.java"
--'  1  0  ~/paypal/code.java
-|4,39,1,0,1632581992,"~/paypal/code.java"
--'  3  13  ~/code.jave
-|4,39,3,13,1632578573,"~/code.jave"
--'  3  13  ~/code.jave
-|4,39,3,13,1632578573,"~/code.jave"
--'  3  13  ~/code.jave
-|4,39,3,13,1632578573,"~/code.jave"
--'  3  13  ~/code.jave
-|4,39,3,13,1632578573,"~/code.jave"
--'  3  12  ~/code.jave
-|4,39,3,12,1632578475,"~/code.jave"
--'  3  12  ~/code.jave
-|4,39,3,12,1632578475,"~/code.jave"
--'  3  12  ~/code.jave
-|4,39,3,12,1632578475,"~/code.jave"
--'  3  12  ~/code.jave
-|4,39,3,12,1632578475,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632578376,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632568476,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632568476,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632568476,"~/code.jave"
--'  4  0  ~/code.jave
-|4,39,4,0,1632568476,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  1  0  ~/code.jave
-|4,39,1,0,1632568378,"~/code.jave"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  6  0  ~/deploy.sh
+|4,39,6,0,1633229962,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229881,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  7  0  ~/deploy.sh
+|4,39,7,0,1633229837,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229737,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
+-'  5  5  ~/deploy.sh
+|4,39,5,5,1633229716,"~/deploy.sh"
 
 # History of marks within files (newest to oldest):
 
-> ~/code
-	*	1632701437	0
-	"	5	21
-	^	5	22
-	.	5	21
-	+	6	21
-	+	5	21
+> ~/test.java
+	*	1633230224	0
+	"	3	6
+	^	3	7
+	.	3	7
+	+	3	7
 
-> ~/paypal/code.java
-	*	1632582032	0
-	"	5	21
-	^	5	22
-	.	5	21
-	+	5	21
-
-> ~/code.jave
-	*	1632578561	0
-	"	3	13
-	^	3	14
-	.	3	14
-	+	3	22
-	+	4	33
-	+	3	14
-
-=======
-'0  3  18  ~/demo3/test3.sh
-|4,48,3,18,1632193963,"~/demo3/test3.sh"
-'1  3  14  ~/fff.sh
-|4,49,3,14,1632192518,"~/fff.sh"
-'2  3  19  ~/fff.sh
-|4,50,3,19,1632192428,"~/fff.sh"
-'3  3  18  ~/paypal/ebay2/app.java
-|4,51,3,18,1632147777,"~/paypal/ebay2/app.java"
-'4  3  18  ~/paypal/ebay2/app.java
-|4,52,3,18,1632111432,"~/paypal/ebay2/app.java"
-'5  2  5  ~/paypal/ebay2/app.java
-|4,53,2,5,1632111241,"~/paypal/ebay2/app.java"
-'6  2  5  ~/paypal/ebay2/app.java
-|4,54,2,5,1632111241,"~/paypal/ebay2/app.java"
-'7  2  5  ~/paypal/ebay2/app.java
-|4,55,2,5,1632111241,"~/paypal/ebay2/app.java"
-'8  2  5  ~/paypal/ebay2/app.java
-|4,56,2,5,1632111241,"~/paypal/ebay2/app.java"
-'9  2  8  ~/paypal/ebay2/app.java
-|4,57,2,8,1632110918,"~/paypal/ebay2/app.java"
-
-# Jumplist (newest first):
--'  3  18  ~/demo3/test3.sh
-|4,39,3,18,1632193963,"~/demo3/test3.sh"
--'  1  0  ~/demo3/test3.sh
-|4,39,1,0,1632193872,"~/demo3/test3.sh"
--'  3  14  ~/fff.sh
-|4,39,3,14,1632192518,"~/fff.sh"
--'  3  14  ~/fff.sh
-|4,39,3,14,1632192518,"~/fff.sh"
--'  3  19  ~/fff.sh
-|4,39,3,19,1632192428,"~/fff.sh"
--'  3  19  ~/fff.sh
-|4,39,3,19,1632192428,"~/fff.sh"
--'  1  0  ~/fff.sh
-|4,39,1,0,1632192250,"~/fff.sh"
--'  1  0  ~/fff.sh
-|4,39,1,0,1632192250,"~/fff.sh"
--'  1  0  ~/fff.sh
-|4,39,1,0,1632192250,"~/fff.sh"
--'  1  0  ~/fff.sh
-|4,39,1,0,1632192250,"~/fff.sh"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632147777,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  3  18  ~/paypal/ebay2/app.java
-|4,39,3,18,1632111432,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111387,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  5  ~/paypal/ebay2/app.java
-|4,39,2,5,1632111241,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  2  8  ~/paypal/ebay2/app.java
-|4,39,2,8,1632110918,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  3  19  ~/paypal/ebay2/app.java
-|4,39,3,19,1632110894,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
--'  4  19  ~/paypal/ebay2/app.java
-|4,39,4,19,1632109191,"~/paypal/ebay2/app.java"
-
-# History of marks within files (newest to oldest):
-
->>>>>>> parent of 8b2f6de... ebay added
-> ~/demo3/test3.sh
-	*	1632193956	0
-	"	3	18
-	^	3	19
-	.	3	18
-	+	3	18
-
-> ~/fff.sh
-	*	1632192500	0
-	"	3	14
-	^	3	15
-	.	2	5
-	+	3	19
-	+	2	5
-
-> ~/paypal/ebay2/app.java
-	*	1632147777	0
-	"	3	18
-	^	3	19
-	.	3	18
-	+	3	19
-	+	3	0
-	+	2	5
-	+	3	18
-
-> ~/ff.sh
-	*	1632100718	0
-	"	2	4
-	^	2	5
-	.	2	5
-	+	5	1
-	+	4	12
-	+	5	0
-	+	3	3
-	+	2	5
-
-> ~/paypal/fff.sh
-	*	1632083819	0
-	"	1	0
-	^	1	1
-	.	1	0
+> ~/deploy.sh
+	*	1633229953	0
+	"	6	0
+	^	6	0
+	.	6	0
+	+	5	22
+	+	4	21
+	+	5	5
 	+	4	13
-	+	1	0
-
-> ~/file.sh
-	*	1631877839	0
-	"	4	12
-	^	4	13
-	.	4	13
-	+	4	13
-
-> ~/ct.sh
-	*	1631542972	0
-	"	1	0
-
-> ~/monitoring
-	*	1631542610	0
-	"	1	29
-	^	1	30
-	.	1	30
-	+	4	4
-	+	1	32
-	+	1	37
+	+	5	11
+	+	6	26
+	+	4	0
+	+	5	4
 	+	6	0
-	+	1	32
-	+	1	30
 
-> ~/fl2.sh
-	*	1631509333	0
-	"	6	12
-	^	6	13
-	.	6	12
-	+	6	12
+> ~/gitdemo
+	*	1633225455	0
+	"	1	0
 
 > ~/fl.sh
-	*	1631509021	0
-	"	9	3
-	^	9	4
-	.	9	3
-	+	3	77
-	+	3	83
-	+	1	24
-	+	3	53
-	+	3	57
-	+	3	73
-	+	3	85
-	+	3	67
-	+	3	49
-	+	3	71
-	+	2	12
-	+	3	24
-	+	3	52
-	+	3	69
-	+	3	80
-	+	3	98
-	+	3	73
-	+	3	75
-	+	3	63
-	+	3	75
-	+	3	51
-	+	3	71
-	+	3	98
-	+	3	97
-	+	3	98
-	+	3	47
-	+	9	3
+	*	1633225401	0
+	"	6	0
 
-> ~/forloops1.sh
-	*	1631344488	0
-	"	7	8
-	^	7	9
-	.	7	8
-	+	6	2
-	+	8	3
-	+	5	21
-	+	4	22
-	+	8	14
-	+	7	0
-	+	5	8
-	+	7	8
-
-> ~/pe.sh
-	*	1631171719	0
-	"	4	29
-	^	4	30
-	.	4	29
-	+	2	29
-	+	4	29
-
-> ~/if.sh
-	*	1631170165	0
-	"	5	25
-	^	5	26
-	.	5	26
-	+	11	45
-	+	8	5
-	+	11	65
-	+	9	30
-	+	10	0
-	+	11	1
-	+	10	0
-	+	10	6
-	+	11	0
-	+	11	40
-	+	5	28
-	+	7	22
-	+	8	3
-	+	9	36
-	+	10	4
-	+	11	30
-	+	12	0
-	+	13	0
-	+	9	0
-	+	5	28
-	+	3	19
-	+	1	6
-	+	3	5
-	+	5	26
-
-> ~/debug1.sh
-	*	1631160203	0
-	"	4	2
-	^	4	3
-	.	4	2
-	+	3	3
-	+	2	45
-	+	1	4
-	+	4	2
-
-> ~/calculator1.sh
-	*	1631004621	0
-	"	10	33
-	^	10	34
-	.	10	33
-	+	10	33
-
-> ~/arops.sh
-	*	1631004467	0
-	"	8	15
-	^	8	16
-	.	8	15
-	+	8	15
-
-> ~/cla.sh
-	*	1630980233	0
-	"	24	0
-	^	24	0
-	.	23	2
-	+	57	2
-	+	58	0
-	+	23	2
-<<<<<<< HEAD
-=======
-
-> ~/.bash_history
-	*	1630886726	0
-	"	140	0
-
-> ~/test
-	*	1630883215	0
-	"	8	29
-	^	8	25
-	.	8	20
-	+	3	7
-	+	2	24
-	+	8	25
-	+	10	0
-	+	5	16
-	+	8	20
-
-> ~/boa.sh
-	*	1630474105	0
-	"	7	0
-	^	7	0
-	.	6	13
-	+	6	13
->>>>>>> parent of 8b2f6de... ebay added
+> ~/code.jave
+	*	1633225384	0
+	"	1	0

@@ -783,3 +783,128 @@ shutdown
 sudo shutdown
 =======
 >>>>>>> parent of 8b2f6de... ebay added
+vicode java
+vi code java
+git status
+git commit -m "ebay added"
+git log
+git show 1a9e98e670e998268e517736
+git show 1a9e98e670e998268e517
+git show 8b2f6de9b28cfa63351bd4f
+git revert 8b2f6de9b28cfa63351bd
+git add .
+git revert 8b2f6de9b28cfa63351bd
+git status 
+git commit -m "ebay added"
+git status 
+git revert 8b2f6de9b28cfa63351bd
+git log
+git show aa0548ad50664b26fb
+git revert  8b2f6de9b28cfa6
+git revert aa0548ad50664b26fb9
+git revert 1a9e98e670e998268
+git reset
+git status 
+vi code.jave
+sh code.jave
+git status 
+git add .
+git status 
+git commit -m "corrections"
+vi db.sql
+sh db.sql
+git clean -n
+ls
+git clean -f
+ls
+git remote add am https://github.com/Christabelawah/test-amazon.git
+git remote add aam https://github.com/Christabelawah/test-amazon.git
+git push aam
+git push aam master
+git remote add ebb 
+git remote add ebb https://github.com/Christabelawah/ebay.git
+git push ebb master
+git remote add tt https://github.com/Christabelawah/Technologies.git
+git push tt master
+ shutdown
+ shutdown -c
+pwd
+git config --global --list
+git status
+git push tt master
+git remote -v
+sudo shutdown
+git config --global --list
+git push tt master
+git log
+vi deploy.py
+vi dy.py
+ls
+vi dy.py
+vi dy.java
+yum update vim
+sudo yum update vim
+sudo yum install vm
+sudo yum install vim
+ls
+vi boa.sh
+ls
+vi dy.java
+su - ec2-user
+exit
+vi dy.py
+$
+ls
+sudo install hexedit
+sudo apt-get install hexedit
+cd /opt
+cd bin
+ls
+cd ..
+cd bin
+cd ..
+ls
+sudo yum update
+ls
+ls -l
+cd home
+ls
+cd ec2-user/
+ls
+cd landmark/
+ls
+pwd
+vi dy.java
+cd bin
+cd /bin
+ls
+cd ..
+ll
+ls -l
+ls
+ll
+touch dy.java
+sudo touch dy.java
+ls
+vi dy.java
+rm -rf dy.java
+sudo rm -rf dy.java
+ls
+cd home/
+ls
+cd landmark
+ls
+cat dy.java
+cat boa.sh
+cd paypal
+ls
+vi fff.sh
+yum update vim
+sudo yum update vim
+yum update vi
+sudo yum update vi
+vi fff.sh
+touch pen.sh
+vi pen.sh
+rm -rf pen.sjh
+rm -rf pen.sh
