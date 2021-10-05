@@ -1,36 +1,3 @@
-sudo su landmark
-exit
-sudo su
-sudo su
-pwd
-who
-whoami
-who
-sudo -i
-sudo systemctl status sshd
-sudo systemctl restart sshd
-cat /etc/sudoers
-sudo cat /etc/sudoers
-sudo su -
-sudo su -
-ls
-who
-whoiam
-vi /etc/ssh/sshd_config
-sudo -1
-sudo -i
-watch
-history
-netstat -tunlp
-yum install net -tools
-ls
-sudo -i
-ls
-ps
-ps ef
-top
-sar
-shutdown
 top
 ps -eo
 top -n 4
@@ -908,3 +875,126 @@ touch pen.sh
 vi pen.sh
 rm -rf pen.sjh
 rm -rf pen.sh
+vi dy.java
+clear
+vi test.sh
+yum rm
+yum remove
+sudo yum remove vim
+vi test.sh
+cd
+ls
+vi code.jave
+ls
+vim code
+cd /usr/bin/
+ls
+grep vi
+cd vi
+cd ssh
+ls -l
+sudo rm vi
+ls | grep vi
+ls | grep vim
+sudo yum install nano vim -y
+cd 
+nano code.jave 
+vim code.jave 
+cd -
+ls | grep vim
+sudo remove -all vim 
+sudo yum remove  -all vim 
+sudo yum remove vim -y 
+sudo yum remove vi -y 
+sudo yum remove vi -y --nobest
+sudo yum update vi -y --nobest
+vi 
+ls | grep vim
+ls | grep vi
+sudo yum install vi -y --nobest
+vi kil
+whereis vi
+whereis vim
+cd /usr/share/vim
+ls
+ls -l
+cd ..
+ls -l
+sudo rm vim 
+sudo rm -rf vim 
+ls -l | grep vi
+whereis vi 
+cd /usr/share/man/man1
+ls
+ls -l 
+ls -l | grep vi 
+sudo rm -rf vi.1.gz 
+vi 
+source /etc/profile
+vi 
+sudo yum install vim vi -y
+vi 
+source /etc/profile
+vi
+clear
+cd
+vi 
+whereis viminfo 
+nano code.jave 
+history 
+vi
+history | grep vi
+nano .bash_history
+nano /etc/ssh/sshd_config 
+sudo nano /etc/ssh/sshd_config 
+ssh -t /etc/ssh/sshd_config 
+sudo systemstl restart sshd
+sudo systemctl restart sshd
+vi
+whereis viminfo 
+ls -la
+sudo rm -rf .viminfo 
+vii
+vi
+ls 
+vi code.jave 
+vi fl.sh 
+ls -la
+vim gitdemo
+vi  sudo rm -rf .viminfo
+history
+ls -la
+vi deploy.sh
+sh deploy.sh
+vi deploy.sh
+sh deploy.sh
+vi deploy.sh
+sh deploy.sh
+vi deploy.sh
+sh deploy.sh
+vi test.java
+sh test.java
+vi test.java
+sh test.java
+vi test.java
+
+vi test.java
+git log
+git status
+git add .
+git status
+git remote -v
+git remote add tj https://github.com/Christabelawah/demo3.git
+git push tj master
+git init
+git add
+git add ..
+git commit -m "my test comit"
+git log
+git remote -v
+git remote add tj https://github.com/Christabelawah/Technologies.git
+git remote add ttj https://github.com/Christabelawah/Technologies.git
+git push ttj master https://github.com/Christabelawah/Technologies.git
+git remote add ttj https://github.com/Christabelawah/Technologies.git
+git remote add tsj https://github.com/Christabelawah/Technologies.git
+git push tsj master https://github.com/Christabelawah/Technologies.git

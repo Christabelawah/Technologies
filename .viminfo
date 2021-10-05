@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1633230232,,"wq"
+|2,0,1633441037,,"wq"
 :q!
 |2,0,1633225460,,"q!"
 
@@ -30,32 +30,86 @@ $
 # Registers:
 
 # File marks:
-'0  3  6  ~/test.java
-|4,48,3,6,1633230232,"~/test.java"
-'1  3  8  ~/test.java
-|4,49,3,8,1633230184,"~/test.java"
-'2  3  7  ~/test.java
-|4,50,3,7,1633230138,"~/test.java"
-'3  3  7  ~/test.java
-|4,51,3,7,1633230138,"~/test.java"
-'4  4  0  ~/test.java
-|4,52,4,0,1633230086,"~/test.java"
-'5  4  0  ~/test.java
-|4,53,4,0,1633230086,"~/test.java"
-'6  4  0  ~/test.java
-|4,54,4,0,1633230086,"~/test.java"
-'7  4  0  ~/test.java
-|4,55,4,0,1633230086,"~/test.java"
+'0  5  9  ~/dyy.java
+|4,48,5,9,1633441037,"~/dyy.java"
+'1  5  8  ~/dyy.java
+|4,49,5,8,1633440984,"~/dyy.java"
+'2  5  13  ~/dyy.java
+|4,50,5,13,1633440897,"~/dyy.java"
+'3  5  13  ~/dyy.java
+|4,51,5,13,1633440897,"~/dyy.java"
+'4  3  6  ~/test.java
+|4,52,3,6,1633230232,"~/test.java"
+'5  3  8  ~/test.java
+|4,53,3,8,1633230184,"~/test.java"
+'6  3  7  ~/test.java
+|4,54,3,7,1633230138,"~/test.java"
+'7  3  7  ~/test.java
+|4,55,3,7,1633230138,"~/test.java"
 '8  4  0  ~/test.java
 |4,56,4,0,1633230086,"~/test.java"
 '9  4  0  ~/test.java
 |4,57,4,0,1633230086,"~/test.java"
 
 # Jumplist (newest first):
+-'  5  9  ~/dyy.java
+|4,39,5,9,1633441037,"~/dyy.java"
+-'  5  8  ~/dyy.java
+|4,39,5,8,1633440984,"~/dyy.java"
+-'  5  13  ~/dyy.java
+|4,39,5,13,1633440897,"~/dyy.java"
+-'  1  0  ~/dyy.java
+|4,39,1,0,1633440780,"~/dyy.java"
+-'  1  0  ~/dyy.java
+|4,39,1,0,1633440780,"~/dyy.java"
+-'  1  0  ~/dyy.java
+|4,39,1,0,1633440780,"~/dyy.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
+-'  3  6  ~/test.java
+|4,39,3,6,1633230232,"~/test.java"
 -'  3  6  ~/test.java
 |4,39,3,6,1633230232,"~/test.java"
 -'  3  8  ~/test.java
 |4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  8  ~/test.java
+|4,39,3,8,1633230184,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
+-'  3  7  ~/test.java
+|4,39,3,7,1633230138,"~/test.java"
 -'  3  7  ~/test.java
 |4,39,3,7,1633230138,"~/test.java"
 -'  4  0  ~/test.java
@@ -64,6 +118,62 @@ $
 |4,39,4,0,1633230112,"~/test.java"
 -'  4  0  ~/test.java
 |4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230112,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
+-'  4  0  ~/test.java
+|4,39,4,0,1633230086,"~/test.java"
 -'  4  0  ~/test.java
 |4,39,4,0,1633230086,"~/test.java"
 -'  1  0  ~/test.java
@@ -74,6 +184,62 @@ $
 |4,39,1,0,1633230009,"~/test.java"
 -'  1  0  ~/test.java
 |4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
+-'  1  0  ~/test.java
+|4,39,1,0,1633230009,"~/test.java"
 -'  6  0  ~/deploy.sh
 |4,39,6,0,1633229962,"~/deploy.sh"
 -'  6  0  ~/deploy.sh
@@ -86,174 +252,15 @@ $
 |4,39,6,0,1633229962,"~/deploy.sh"
 -'  6  0  ~/deploy.sh
 |4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  6  0  ~/deploy.sh
-|4,39,6,0,1633229962,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229881,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  7  0  ~/deploy.sh
-|4,39,7,0,1633229837,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229737,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
--'  5  5  ~/deploy.sh
-|4,39,5,5,1633229716,"~/deploy.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/dyy.java
+	*	1633441031	0
+	"	5	9
+	^	5	10
+	.	5	10
+	+	5	10
 
 > ~/test.java
 	*	1633230224	0
